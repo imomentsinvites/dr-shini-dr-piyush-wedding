@@ -8,7 +8,7 @@ export const WEDDING_DATA = {
   togetherText: "Together with our families & friends",
   requestText: "REQUEST THE HONOUR OF YOUR PRESENCE",
   datesSummary: "01 – 04 DECEMBER 2026 • NARNAUL & ORCHHA",
-  weddingDateFormatted: "3rd - 4th DECEMBER 2026",
+  weddingDateFormatted: "3rd-4th DECEMBER 2026",
   weddingDayOfWeek: "THURSDAY,FRIDAY",
   weddingTimeFormatted: "AT 5:00 PM",
   targetTimestamp: new Date("2026-12-03T17:00:00+05:30").getTime(),
