@@ -1,6 +1,6 @@
 export const WEDDING_DATA = {
   groom: "Dr. Shini",
-  groomParents: "G.D/o Lt. Mrs Suman & Lt Mr. Narendranath Choubey(Paternal)\n Lt. Mrs. Kanti Devi & Lt Mr. Santosh K Chaturvedi(Maternal)",
+  groomParents: "G.D/o Lt. Mrs Suman & Lt Mr. Narendranath Choubey(Paternal)\nLt. Mrs. Kanti Devi & Lt Mr. Santosh K Chaturvedi(Maternal)",
   bride: "Dr. Piyush",
   brideParents: "S/o Dr. Usha & Dr. Dinesh Sharma",
   introMessage: "Mr. Anurag Choubey(H/o Lt. Mrs. Anju) invite you to\nthe Wedding ceremony of their beloved daughter",
