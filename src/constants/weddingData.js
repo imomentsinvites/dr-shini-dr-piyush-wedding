@@ -11,7 +11,7 @@ export const WEDDING_DATA = {
   weddingDateFormatted: "3rd - 4th DECEMBER 2026",
   weddingDayOfWeek: "THURSDAY,FRIDAY",
   weddingTimeFormatted: "AT 5:00 PM",
-  targetTimestamp: new Date("2026-12-01T17:00:00+05:30").getTime(),
+  targetTimestamp: new Date("2026-12-03T17:00:00+05:30").getTime(),
   venueName: "Raj Vilas Palace",
   venueAddress: "Orchha, Madhya Pradesh",
   googleMapsUrl: "https://maps.app.goo.gl/SjAinaMEUt6Tcjgt7?g_st=ic",
