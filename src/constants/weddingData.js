@@ -17,8 +17,22 @@ export const WEDDING_DATA = {
   googleMapsUrl: "https://maps.app.goo.gl/SjAinaMEUt6Tcjgt7?g_st=ic",
   venues: [
     {
-      id: "destination",
+      id: "barat",
       step: 1,
+      badge: "Location 1 · Baraat Starting Point",
+      phaseTitle: "Baraat & Home Ceremonies",
+      name: "Pooja Hospital",
+      subtitle: "At our residence",
+      address: "Pooja Hospital, Narnaul, Haryana",
+      dates: "1st – 2nd December 2026",
+      keyHighlights: "Lagan Ceremony · Nikashi & Dinner · Baraat Departure at 11:00 PM",
+      departureNote: "Baraat will depart on 2nd Dec at 11:00 PM by Bus from Narnaul to Orchha, MP",
+      googleMapsEmbed: "https://maps.google.com/maps?q=Pooja+Hospital+Narnaul+Haryana&t=m&z=15&output=embed",
+      googleMapsUrl: "https://maps.google.com/?q=Pooja+Hospital+Narnaul+Haryana",
+    },
+    {
+      id: "destination",
+      step: 2,
       badge: "Location 2 · Destination Wedding",
       phaseTitle: "Royal Destination Celebrations",
       name: "Raj Vilas Palace",
