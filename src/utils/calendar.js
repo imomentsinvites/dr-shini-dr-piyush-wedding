@@ -1,5 +1,5 @@
 export function openGoogleCalendar() {
-  const title = encodeURIComponent("Wedding of Dr. Piyush & Dr. Shini");
+  const title = encodeURIComponent("Wedding of Dr. Shini & Dr. Piyush");
   const dates = "20261201T133000Z/20261201T183000Z";
   const details = encodeURIComponent(
     "Wedding celebrations of Dr. Shini & Dr. Piyush at Raj Vilas, Orchha, Madhya Pradesh."
