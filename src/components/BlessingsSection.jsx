@@ -43,7 +43,7 @@ export function BlessingsSection() {
               Thank You{name ? `, ${name}` : ""}!
             </p>
             <p className="text-sm text-muted-foreground mt-1 mb-4 font-body">
-              Your heartfelt blessings have been sent to Dr. Piyush &amp; Dr. Shini on WhatsApp.
+              Your heartfelt blessings have been sent to Dr. Shini &amp; Dr. Piyush on WhatsApp.
             </p>
             <div className="flex flex-col items-center gap-2.5">
               <a
@@ -64,7 +64,7 @@ export function BlessingsSection() {
                 }}
                 className="text-xs text-primary font-display font-medium underline underline-offset-4 hover:opacity-80 pt-2 cursor-pointer"
               >
-                Send Another Blessing
+                Send Another message
               </button>
             </div>
           </div>
@@ -74,7 +74,7 @@ export function BlessingsSection() {
             className="p-6 rounded-2xl bg-card border border-border shadow-sm text-left space-y-4"
           >
             <h3 className="font-display font-semibold text-base text-foreground text-center mb-1">
-              Send Warm Wishes to the Couple
+              Will you be joining us to celebrate our special day?
             </h3>
 
             <div>
@@ -100,7 +100,7 @@ export function BlessingsSection() {
                 required
                 value={wish}
                 onChange={(e) => setWish(e.target.value)}
-                placeholder="Wishing you a lifetime of endless love, laughter, and happiness..."
+                placeholder="Please RSVP and let us know how many guests will be attending, so we can make the arrangements accordingly..."
                 className="w-full px-3.5 py-2.5 rounded-lg border border-border bg-background text-foreground text-sm focus:outline-none focus:ring-2 focus:ring-primary/40"
               />
             </div>
