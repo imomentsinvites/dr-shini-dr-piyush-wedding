@@ -45,11 +45,11 @@ export default function App() {
         />
       </div>
 
-      {/* Desktop Flanking Left: DR. PIYUSH & DR. SHINI badge */}
+      {/* Desktop Flanking Left: DR. SHINI & DR. PIYUSH badge */}
       <div className="hidden md:flex desktop-flank-left">
         <div className="desktop-header-pill">
           <span style={{ color: "#f5d77f" }}>✦</span>
-          <span style={{ color: "#ffffff", fontWeight: 700 }}>DR. PIYUSH &amp; DR. SHINI</span>
+          <span style={{ color: "#ffffff", fontWeight: 700 }}>DR. SHINI &amp; DR. PIYUSH</span>
         </div>
       </div>
 
