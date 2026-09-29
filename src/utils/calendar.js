@@ -21,7 +21,7 @@ export function downloadIcsFile() {
     "UID:wedding-shini-piyush-20261201@wedding.com",
     "DTSTAMP:20260926T000000Z",
     "DTSTART:20261203T133000Z",
-    "DTEND:20261203T183000Z"
+    "DTEND:20261203T183000Z",
     "SUMMARY:Wedding of Dr. Shini & Dr. Piyush",
     "DESCRIPTION:Wedding celebrations of Dr. Shini & Dr. Piyush at Raj Vilas, Orchha.",
     "LOCATION:Raj Vilas, Orchha, Madhya Pradesh",
