@@ -13,7 +13,7 @@ export function BlessingsSection() {
     if (!wish.trim()) return;
 
     const sender = name.trim() || "A Well-Wisher";
-    const messageText = `Warmest Blessings to Dr. Piyush & Dr. Shini! 💐✨\n\nFrom: ${sender}\n"${wish.trim()}"\n\nWishing you a lifetime of endless love, laughter, and happiness! 💖`;
+    const messageText = `Warmest Blessings to Dr. Shini & Dr. Piyush! 💐✨\n\nFrom: ${sender}\n"${wish.trim()}"\n\nWishing you a lifetime of endless love, laughter, and happiness! 💖`;
     const whatsappUrl = `https://wa.me/${WEDDING_DATA.whatsappRawNumber}?text=${encodeURIComponent(messageText)}`;
 
     // Open WhatsApp directly with the pre-filled blessing message
